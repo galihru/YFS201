@@ -1,4 +1,4 @@
-#include "yfs201.h"
+#include "YFS201.h"
 
 yfs201::yfs201(int pin) : pulsePin(pin), pulseCount(0), lastTime(0) {}
 
